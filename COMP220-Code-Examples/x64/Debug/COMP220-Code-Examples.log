@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\natha\documents\university\year 2 get your shit together\220\comp220_graphics\comp220-code-examples\main.cpp(196): error C2065: 'mouseX_Sensitivity': undeclared identifier
+d:\natha\documents\university\year 2 get your shit together\220\comp220_graphics\comp220-code-examples\main.cpp(197): error C2065: 'mouseY_Sensitivity': undeclared identifier
